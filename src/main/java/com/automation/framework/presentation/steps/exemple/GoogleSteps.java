@@ -1,8 +1,8 @@
 // package e imports...
-package com.automation.framework.presentation.steps;
+package com.automation.framework.presentation.steps.exemple;
 
 import com.automation.framework.infrastructure.driver.DriverFactory;
-import com.automation.framework.presentation.pages.GooglePage;
+import com.automation.framework.presentation.pages.exemple.GooglePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

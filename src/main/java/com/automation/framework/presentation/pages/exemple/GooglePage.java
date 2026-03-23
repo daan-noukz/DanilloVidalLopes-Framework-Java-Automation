@@ -1,4 +1,4 @@
-package com.automation.framework.presentation.pages;
+package com.automation.framework.presentation.pages.exemple;
 
 import com.automation.framework.infrastructure.driver.DriverFactory;
 import com.automation.framework.infrastructure.wrappers.WebActions;

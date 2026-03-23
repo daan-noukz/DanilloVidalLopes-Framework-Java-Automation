@@ -1,5 +1,3 @@
-// Arquivo: src/test/java/com/automation/framework/infrastructure/report/CucumberStepListener.java
-
 package com.automation.framework.infrastructure.report;
 
 import com.automation.framework.infrastructure.driver.DriverFactory;
